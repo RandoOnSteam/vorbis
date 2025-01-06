@@ -1,0 +1,1 @@
+This is Xiph's Ogg Vorbis library with modifications for older compilers
